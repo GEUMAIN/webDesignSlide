@@ -2,7 +2,7 @@
 
 ### 슬라이드 S-2
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/fa97d740-13f6-4ddc-9939-b86bb2c976d6/7750eb11-f092-4817-8760-3e8fc0f67eb1/Untitled.png)
+![깃헙0](https://github.com/GEUMAIN/webDesignSlide/assets/128437656/b1f7c9c2-a00b-44fe-b07f-ce25fe0a46cb)
 
 ---
 
@@ -210,7 +210,7 @@ window.onload = function () {
 
 ### 슬라이드 S-3
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/fa97d740-13f6-4ddc-9939-b86bb2c976d6/018da46c-a63a-4cba-97eb-99bd570d8a81/Untitled.png)
+![깃헙1](https://github.com/GEUMAIN/webDesignSlide/assets/128437656/57959195-6331-4b95-8a6c-8b1ad9046e9e)
 
 ---
 
